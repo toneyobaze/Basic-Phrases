@@ -14,8 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    //git test
-
     public void ButtonTapped(View view){
 
         int id =view.getId();
