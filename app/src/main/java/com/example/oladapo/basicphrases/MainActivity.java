@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    //testing commit
+    //testing git commit
 
     public void ButtonTapped(View view){
 
